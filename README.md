@@ -1,6 +1,6 @@
 # Sum-Product-Puzzle
 
-##Description of Problem##
+## Description of Problem
 
 X and Y are two different whole numbers greater than 1. Their sum is no greater than 100, and Y is greater than X. S and P are two mathematicians (and consequently perfect logicians); S knows the sum X + Y and P knows the product X * Y. Both S and P know all the information in this paragraph.
 
